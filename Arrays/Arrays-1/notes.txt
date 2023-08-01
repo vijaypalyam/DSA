@@ -1,0 +1,5 @@
+Agenda
+1. Discuss about Arrays
+2. Question 1 - atleast one greater Number
+2. Question - sum of two numbers is k
+

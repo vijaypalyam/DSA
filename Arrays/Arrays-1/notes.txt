@@ -2,5 +2,8 @@ Agenda
 1. Discuss about Arrays
 2. How to solve DSA problems ? 
 3. Question 1 - atleast one greater Number
-2. Question - sum of two numbers is k
+4. Question - sum of two numbers is k
+5. Question - reverse the entire list
+6. Question - revers part of the list
+7. Question - rotate the list k times
 
